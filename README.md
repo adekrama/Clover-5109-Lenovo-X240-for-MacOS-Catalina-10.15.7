@@ -21,11 +21,11 @@ LAN port
 USB Port mapping
 Camera
 
-Not working:
+***Not working:***
 Card reader
 Fingerprint reader
 
-Tutorial :
+***Tutorial :***s
 1. Open Clover Configurator
 2. Mount EFI Partition
 3. Copy this Repo to EFI Partition
