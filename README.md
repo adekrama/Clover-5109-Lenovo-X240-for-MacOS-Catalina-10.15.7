@@ -10,22 +10,22 @@ EFI Clover Bootloader For Lenovo X240 for macOS Catalina 10.15.7
 - https://www.reddit.com/r/hackintosh/comments/dfbswz/thinkpad_x240_catalina_success/
 
 ***Working:****
-Graphich Intel HD4400 + Brigthness (keyboard mapping)
-Sound (internal mic, internal speaker, headset jack)
-Battery
-Sleep, restart, shutdown
-Touchpad and Gesture
-Trackpoint
-Intel Wireless 7620 (Goto https://github.com/OpenIntelWireless/itlwm for more information)
-LAN port
-USB Port mapping
-Camera
+- Intel HD4400 + Brigthness (keyboard mapping)
+- Sound (internal mic, internal speaker, headset jack)
+- Battery
+- Sleep, restart, shutdown
+- Touchpad and Gesture
+- Trackpoint
+- Intel Wireless 7620 (Goto https://github.com/OpenIntelWireless/itlwm for more information)
+- LAN port
+- USB Port mapping
+- Camera
 
 ***Not working:***
 Card reader
 Fingerprint reader
 
-***Tutorial :***s
+***Tutorial :***
 1. Open Clover Configurator
 2. Mount EFI Partition
 3. Copy this Repo to EFI Partition
@@ -34,6 +34,6 @@ Fingerprint reader
 6. Reboot
 
 Just copy to EFI Folder
-
 very big thanks to all developer
+
 https://wikrama.com
