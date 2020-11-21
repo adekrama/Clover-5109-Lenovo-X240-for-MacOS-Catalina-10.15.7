@@ -21,9 +21,9 @@ EFI Clover Bootloader For Lenovo X240 for macOS Catalina 10.15.7
 - USB Port mapping
 - Camera
 
-***Not working:***
-Card reader
-Fingerprint reader
+***Not working / bug:***
+- Card reader
+- Fingerprint reader
 
 ***Tutorial :***
 1. Open Clover Configurator
@@ -31,9 +31,9 @@ Fingerprint reader
 3. Copy this Repo to EFI Partition
 4. Open config.plist
 5. Generate SMBIOS
-6. Reboot
+6. Open config.plist
+7. Reboot
 
-Just copy to EFI Folder
-very big thanks to all developer
+***very big thanks to all developer***
 
 https://wikrama.com
