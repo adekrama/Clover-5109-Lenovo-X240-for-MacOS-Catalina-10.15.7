@@ -2,6 +2,7 @@
 EFI Clover Bootloader For Lenovo X240 for macOS Catalina 10.15.7
 
 ***Credits:***
+- https://github.com/nalakawula/Thinkpad-X240-Catalina-Clover-EFI (Original)
 - https://github.com/kasik96/ThinkPad-X240-Hackintosh-macOS 
 - https://github.com/Sniki/ALCPlugFix
 - https://github.com/Sniki/Lenovo-Thinkpad-X240
